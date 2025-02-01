@@ -37,6 +37,11 @@ npm run android
 - **HNG Hire Pages:**
   - [Hire React Native Developers](https://hng.tech/hire/react-native-developers)
   - [Hire Mobile Developers](https://hng.tech/hire/mobile-developers)
+  - [Hire Flutter Developers](https://hng.tech/hire/flutter-developers)
+  - [Hire React Native Developers](https://hng.tech/hire/react-native-developers)
+  - [Hire Kotlin Developers](https://hng.tech/hire/kotlin-developers)
+  - [Hire Android Developers](https://hng.tech/hire/android-developers)
+  - [Hire iOS Developers](https://hng.tech/hire/ios-developers) 
 
 ## License
 This project is licensed under the MIT License.
